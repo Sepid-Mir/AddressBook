@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyAddressPlus</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Hello Database Credentials...</string>
+    <string name="text"></string>
+
+    <string name="hello">Hello World, Todo!</string>
+    <string name="no_addr">Currently there are no address items maintained</string>
+    <string name="menu_insert">Add Address</string>
+    <string name="menu_delete">Delete Address</string>
+    <string name="addr_summary">Summary</string>
+    <string name="addr_edit_confirm">Confirm</string>
+</resources>
